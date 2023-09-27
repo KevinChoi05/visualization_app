@@ -107,7 +107,8 @@ def load_model():
     output = tf.keras.layers.Lambda(lambda x: x * range_dprime + min_dprime)(output_layer)
 
     model = Model(inputs=[input_image, input_meta], outputs=output)
-    model.load_weights("C:\\Users\\kevin\\OneDrive\\문서\\website\\visualization_prediction_model_weights.h5")
+    model.load_weights("visualization_prediction_model_weights.h5")
+
 
     return model
 model = load_model()
