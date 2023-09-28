@@ -15,10 +15,12 @@ The model is trained on a dataset that is pivotal to research in the field of da
 
 How to Obtain the Dataset
 Visit the Massachusetts Visualization (MassVis) dataset page.
-LINK-----> http://massvis.mit.edu/
 Scroll down to the "Download the Dataset" section.
 Fill out the request form to download the dataset.
 By downloading and using this dataset, you agree to use it only for research and educational purposes. Commercial use or distribution is not permitted.
+
+LINK-----> http://massvis.mit.edu/
+
 
 
 Data Files
